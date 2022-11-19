@@ -49,7 +49,6 @@ implementation 'com.github.hozanBaydu:Parola-guvenlik-orani-kutuphane:1.1.0'
 Yukarıdaki iki adımı tamamladıktan sonra artık kütüphaneyi projemizde kullanmaya hazırız.
 
 ```sh
-binding.detailsWord.text=viewModel.word
   var check=Securitycheck()
         check.checkPassword(editText = editTextTextPersonName, textView = textView2)
 ```
